@@ -4,9 +4,9 @@
 }
 
 .row-content{
-    padding: 30px 50px;
+    padding: 30px 0px;
     margin: 0px auto;
-    border-bottom: 2px ridge;
+    border-bottom: 1px ridge;
     min-height: 400px;
 }
 
